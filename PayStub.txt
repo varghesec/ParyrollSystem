@@ -1,0 +1,24 @@
+
+		UST - Street: 5 Polaris Way, City: Aliso Viejo, Province: Orange County, Zip: 92656
+
+	Name: Bob Dutile - Employee ID: 1000
+	Pay Date: 		23/09/22
+	Gross Salary: 	250000.0
+	Net Salary: 	175000.0
+
+
+		UST - Street: 5 Polaris Way, City: Aliso Viejo, Province: Orange County, Zip: 92656
+
+	Name: Varghese Cherian - Employee ID: 1001
+	Pay Date: 		23/09/22
+	Gross Salary: 	80000.0
+	Net Salary: 	56000.0
+
+
+		UST - Street: 5 Polaris Way, City: Aliso Viejo, Province: Orange County, Zip: 92656
+
+	Name: Saju Mathew - Employee ID: 1002
+	Pay Date: 		23/09/22
+	Gross Salary: 	75000.0
+	Net Salary: 	52500.0
+
