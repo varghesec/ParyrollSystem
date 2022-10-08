@@ -1,6 +1,6 @@
 package com.vc.hr.payroll;
 
-import java.util.ArrayList;
+
 
 public abstract class Employee implements IPayable {
     private String name ;
@@ -10,7 +10,7 @@ public abstract class Employee implements IPayable {
     private static int nextID = 1000;
     public static double STARTING_PAY_RATE = 7.75 ;
 
-    private Department department ;
+    protected Department department ;
     private Company company ;
 
     public Employee(String name) {
@@ -84,5 +84,10 @@ public abstract class Employee implements IPayable {
         int id = nextID ;
         nextID++ ;
         return id ;
+    }
+
+    @Override
+    public String toString(){
+        return (this.name + " : " + this.getDepartment() ) ;
     }
 }
